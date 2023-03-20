@@ -1,4 +1,4 @@
-# Python FizzBuzz
+# Python Sriam FizzBuzz
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
